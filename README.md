@@ -8,7 +8,7 @@ Use my advice on your own responsibility.
 
 
 I have made this a github repo with hope to receive community contributions to fix any inaccuracies, out of date information and typos.
-If you want to suggest any changes, please open a Pull Request, [let me know on twitter](https://twitter.com/tadas_t) or [comment on Hacker News](https://news.ycombinator.com/item?id=9726182).
+If you want to suggest any changes, please open a Pull Request or [let me know on twitter](https://twitter.com/tadas_t). You can read the discussions on Hacker News [here](https://news.ycombinator.com/item?id=9726182) and [here](https://news.ycombinator.com/item?id=9980264).
 
 The post contains some affiliate links, they are denoted with `(aff.)`. I am not recommending these services because they have referral deals - any of their competitors do. I am recommending them because they worked really well for me. Moreover, some of them gives you a sign up bonus too.
 
@@ -68,16 +68,15 @@ You can consider becoming a sole trader, but if you're planning to earn £50,000
 You can incorporate a company online. 
 You can do it in advance, no extra work is required until you start trading.
 
-A service like [www.companiesmadesimple.com (aff.)](http://www.companiesmadesimple.com/?utm_source=www.okdo.co.uk&utm_medium=affiliate&utm_campaign=affiliate-link) will make the incorporation process easy. 
+A service like [www.formationsfactory.co.uk](https://www.formationsfactory.co.uk/) will make the incorporation process easy. 
 It usually takes up to three business hours. 
 The most difficult thing will be choosing the company name :)
-I'd recommend getting the most popular "Privacy Package". 
-You need the first three items in the "What You Get In Each Of Our Packages" table, and the Service Address. 
-The Service Address helps to protect your name and address from identity fraud attempts. 
+I'd recommend getting the "London business address" add-on. 
+It allows you to set your company's Service Address in order to protect your name and address from identity fraud attempts. 
 I will revisit this topic further below.
 
-They also offer a lot of third-party service deals. 
-The only valuable one is a business account with Barclay's that gives you £50 cash back. 
+They also offer a lot of extra services, but most likely you won't need any of them e.g "London registered office" equivalent will be provided by Crunch (see below) free of charge. 
+The only other valuable service is a free business account setup with Barclay's or Lloyds. 
 More information about setting up a business bank account is provided below.
 
 Pay for the company incorporation from your personal bank account, you will expense it later.
@@ -95,7 +94,7 @@ Their teams are very responsive via email or phone during business hours.
 
 Crunch also have a nice web-based accounting tool. 
 It helps with tracking expenses, calculating taxes, invoicing your clients etc. 
-The takes care of providing all required information to HMRC. 
+It takes care of providing all required information to HMRC. 
 It also notifies you about important things you need to do, such as tax payment deadlines.
 
 After registering, your dedicated accountant will call at the time convenient to you. 
@@ -107,14 +106,22 @@ They will also set you up with a VAT.
 
 ### Registering for VAT
 
-There are two types of VAT schemes you can register for: [standard](https://www.gov.uk/vat-rates) and [fixed rate VAT](https://www.gov.uk/vat-flat-rate-scheme/overview). 
-The former allows you to reclaim VAT on your purchases. 
-You should only consider it if your business will have a lot of expenses. 
-The fixed rate VAT does not let you reclaim VAT, but you [pay a lower rate](https://www.gov.uk/vat-flat-rate-scheme/vat-flat-rates) than you charge your clients. 
+There are two types of VAT schemes you can register for: [standard](https://www.gov.uk/vat-rates) and [flat rate VAT](https://www.gov.uk/vat-flat-rate-scheme/overview). 
+The former allows you to reclaim VAT on all your purchases.
+You should only consider it if your business will have a lot of expenses that are subject to VAT.
 
-As a company providing software development services you'll be adding 20% VAT to your client invoices. HMRC will take 14.5% of your flat rate turnover. For example, if you charge your client £1000, you'll add 20% VAT, totalling £1200. This is your flat rate turnover. You'll need to pay £1200 * 14.5% = £174 to HMRC. That leaves you with an extra 2.6% (£26.0 in this case) of income.
+On the flat rate scheme [you can still claim back VAT for capital purchases over £2000](https://www.gov.uk/government/publications/vat-notice-733-flat-rate-scheme-for-small-businesses/vat-notice-733-flat-rate-scheme-for-small-businesses#reclaim-of-vat-on-capital-expenditure-goods), though -- like if you buy a top of the line new macbook pro.
 
-In short, you should choose the flat rate option. 
+The  flat rate scheme does not let you reclaim VAT, but you [pay a lower rate](https://www.gov.uk/vat-flat-rate-scheme/vat-flat-rates) than you charge your clients.
+
+As a company providing software development services you'll be adding 20% VAT to your client invoices.
+HMRC will take 14.5% of your flat rate turnover.
+For example, if you charge your client £1000, you'll add 20% VAT, totalling £1200.
+This is your flat rate turnover.
+You'll need to pay £1200 * 14.5% = £174 to HMRC.
+That leaves you with an extra 2.6% (£26.00 in this case) of income.
+
+In short, you should choose the flat rate option, unless you're planning to subcontract to other VAT registered contractors. 
 However, your [Crunch](https://www.crunch.co.uk/referrals/?c2c=okdoltdj&forename=Tadas) team will be able to give you a more tailored advice. 
 They will also register you for VAT without any extra cost.
 
@@ -127,7 +134,7 @@ The service address is the official contact address of the director.
 Personal statutory mail and notices from Companies House and HMRC will be sent there. 
 Normally, this would be set to your office or residential address. 
 Exposing your residential address increases risk of identity fraud. 
-That's why you should get the Privacy Package provided by CompaniesMadeSimple. 
+That's why you should get the "London business address" add-on provided by [www.formationsfactory.co.uk](https://www.formationsfactory.co.uk). 
 You can then set your service address to the one provided by the service.
 
 The registered address is the official address of your company. 
@@ -150,11 +157,11 @@ Don't forget to expense it :)
 ### Getting a bank account
 
 Most UK banks offer business accounts with similar conditions. 
-Choose the bank you use for your personal finances. 
-This will save you some time learning a new online banking system.
+Some people advise using a different bank than the one you use for your personal finances. 
+This is because some banks may freeze your personal account if your business account gets frozen.
 
 You will need to call the bank and schedule an appointment. 
-In case you chose the Barclay's offer by CompaniesMadeSimple - they will call you. 
+In case you chose the business banking offer by Formations Factory - they will call you in 48 hours. 
 It may take up to four weeks to get an appointment slot if you're in London. 
 Do it as soon as you incorporate your company. 
 During the appointment they will scan some documents, ask a few generic questions and try to sell you extra services you most likely don't need. 
@@ -286,7 +293,7 @@ There are a lot of myths and ambiguities around IR35 among contractors, so use y
 
 # Epilogue
 
-That's all the info that I can remember. If there are any missing steps or inaccuracies, once again, please open a pull request, [let me know on twitter](https://twitter.com/tadas_t) or [comment on Hacker News](https://news.ycombinator.com/item?id=9726182). I may write more similar posts in future and the best way to stay up to date is [on twitter](twitter.com/tadas_t). If you want to hire me for some ruby or Rails work, check out [my website](http://codeme.lt/).
+That's all the info that I can remember. If there are any missing steps or inaccuracies, once again, please open a pull request, [let me know on twitter](https://twitter.com/tadas_t) or [comment on Hacker News](https://news.ycombinator.com/item?id=9726182). I may write more similar posts in future and the best way to stay up to date is [on twitter](https://twitter.com/tadas_t). If you want to hire me for some ruby or Rails work, check out [my website](http://codeme.lt/).
 
 A special thanks goes to a friend and a great ruby developer [Mo Baig](https://twitter.com/mo_baig) who has taught me about a lot of the things above.
 
